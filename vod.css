@@ -1,0 +1,20 @@
+.strip{
+  min-height: 350px;
+  background-image: url(https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.strip h2{
+  color:white;
+  font-size: 5em;
+}
+
+header{
+  background: black;
+  color:white;
+  padding:8px;
+}
